@@ -6,15 +6,6 @@ A **comprehensive TypeScript learning resource** designed to help developers bui
 
 ## 📚 Topics Covered
 
-- Introduction  
-- Course Outline  
-- What is TypeScript?  
-- TypeScript vs JavaScript  
-- Setting up VS Code & Environment  
-- How TypeScript Works & Why  
-- Pros & Cons of TypeScript  
-- Setting up the TypeScript Compiler  
-- Debugging TypeScript Applications  
 - Basic Types  
 - `any` Type  
 - Arrays  
@@ -74,7 +65,3 @@ After completing this material, you’ll be able to:
 - Utilize **generics, decorators, and utility types** effectively  
 - Work confidently with **asynchronous programming**  
 - Tackle **TypeScript-based interview questions** with ease
-
----
-
-> _“TypeScript empowers developers to write better, safer, and smarter code.”_
